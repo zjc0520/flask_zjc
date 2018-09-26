@@ -7,6 +7,7 @@ print(data.describe())
 data1=data["dist"]
 print(data[:,1])
 版本2
+版本333
 
 
 
