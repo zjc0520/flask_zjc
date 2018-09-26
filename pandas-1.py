@@ -6,6 +6,7 @@ print(data.count())#非na值的数量
 print(data.describe())
 data1=data["dist"]
 print(data[:,1])
+版本2
 
 
 
