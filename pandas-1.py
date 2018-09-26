@@ -8,6 +8,7 @@ data1=data["dist"]
 print(data[:,1])
 版本2
 版本333
+版本4
 
 
 
