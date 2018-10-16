@@ -6,14 +6,6 @@ print(data.count())#非na值的数量
 print(data.describe())
 data1=data["dist"]
 print(data[:,1])
-版本2
-版本333
-版本4
-
-版本5
-版本6
-
-dev 分支
 
 666
 
